@@ -7,7 +7,11 @@ Wearable Tech for Blind Assistance This project presents a comprehensive end-to-
 3. Object Detection: Identifies and alerts the user to nearby objects, aiding in better situational awareness.
 4. Obstacle Detection: Detects obstacles in the user's path, ensuring safe navigation in real-world environments.
 
+![1 Product](https://github.com/user-attachments/assets/b5ac72fb-cfcd-46b6-8ed3-f960913db36c)
 
+![2 Box Components](https://github.com/user-attachments/assets/9d0a70d0-51bd-48fe-b1a6-ba85b87df3da)
+
+![Blind Assist Hardware Setup 1](https://github.com/user-attachments/assets/0b62f304-37b7-4859-b856-37b14b7f4cbb)
 
 
 This project involves complex hardware integration and requires intermediate-level programming skills in Python, along with familiarity with Linux, Raspberry Pi, and basic hardware concepts. Before starting, ensure you meet these prerequisites for a smooth experience.
