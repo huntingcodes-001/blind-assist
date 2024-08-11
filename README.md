@@ -1,6 +1,15 @@
 # blind-assist
 Wearable Tech for Blind Assistance This project presents a comprehensive end-to-end solution designed to assist visually impaired individuals through innovative wearable technology. The solution integrates both hardware and software to offer an array of essential features.
 
+*Features:*
+1. AI Assistant: Provides voice-guided assistance for seamless interaction and navigation.
+2. Optical Character Recognition (OCR): Enables real-time text recognition from images or physical documents.
+3. Object Detection: Identifies and alerts the user to nearby objects, aiding in better situational awareness.
+4. Obstacle Detection: Detects obstacles in the user's path, ensuring safe navigation in real-world environments.
+
+
+
+
 This project involves complex hardware integration and requires intermediate-level programming skills in Python, along with familiarity with Linux, Raspberry Pi, and basic hardware concepts. Before starting, ensure you meet these prerequisites for a smooth experience.
 
 For Software Assistance:
@@ -47,3 +56,5 @@ Run the testButtons.py script to ensure all buttons are functioning and properly
 
 5. Final Testing:
 After successful button testing, restart the system and verify button functionality using main.py.
+
+
