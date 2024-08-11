@@ -1,0 +1,10 @@
+google-cloud-vision
+opencv-python
+openai==0.28
+gtts
+SpeechRecognition
+playsound
+pyaudio
+pygame
+pyttsx3
+tensorflow
