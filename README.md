@@ -37,7 +37,9 @@ Obtain and configure API keys for the following services:
      AI Assistant: Generate a key from OpenAI.
      OCR & Object Detection: Enable and obtain keys for the Cloud Vision API on Google Cloud Platform.
 
-5. Set Up Cron Jobs:
+5. For the obstacle detection pls refer to :-https://github.com/muhd360/tf-lite-object_det.
+
+6. Set Up Cron Jobs:
 After completing the hardware setup, configure cron jobs as specified in cronjobs.txt to run the code on system boot.
 
 
@@ -58,8 +60,6 @@ If you want you can run the entire project on a laptop, you wont need to purchas
 4. Test Button Connections:
 Run the testButtons.py script to ensure all buttons are functioning and properly connected.
 
-5.For the obstacle detection pls refer to :-https://github.com/muhd360/tf-lite-object_det
-6.Final Testing:
-After successful button testing, restart the system and verify button functionality using main.py.
+
 
 
