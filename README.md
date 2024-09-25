@@ -60,6 +60,9 @@ If you want you can run the entire project on a laptop, you wont need to purchas
 4. Test Button Connections:
 Run the testButtons.py script to ensure all buttons are functioning and properly connected.
 
+5. Final Testing:
+After successful button testing, restart the system and verify button functionality using main.py.
+
 
 
 
