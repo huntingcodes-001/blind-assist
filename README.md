@@ -23,11 +23,12 @@ For Hardware Assistance:
 Contact Amir Zakaria: https://github.com/huntingcodes-001 | Phone: +91 98929 77581
 
 Software Setup Instructions:
-1. Install Dependencies:
-Install all required packages listed in the requirements.txt file.
 
-2. Create a Virtual Environment:
+1. Create a Virtual Environment:
 Set up a virtual environment to isolate your project dependencies.
+
+2. Install Dependencies:
+Install all required packages listed in the requirements.txt file.
 
 3. Edit Configuration in main.py:
 Modify lines 19-23 in main.py to reflect the correct paths to the virtual environment's Python interpreter and the app-related files.
